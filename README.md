@@ -15,7 +15,7 @@
 
 ###
 <p align="center"> 
- 🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
+ TECH STACK<br>
  <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="25" height="25" />
